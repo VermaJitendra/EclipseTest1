@@ -1,10 +1,10 @@
 {
 	  "name": "subtxt",
 	  "version": "0.1.0",
-	  "description": "A sample Node.js app",
-	  "main": "hello-world-server.js",
+	  "description": "A sample html app",
+	  "main": "index.html",
 	  "scripts": {
-	    "start": "node hello-world-server.js"
+	    "start": "index.html"
 	  },
 	  "dependencies": {
 	    "ejs": "2.5.6",
