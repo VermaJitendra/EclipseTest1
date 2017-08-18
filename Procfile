@@ -1,1 +1,1 @@
-web: node hello-world-server.js
+web: index.html
